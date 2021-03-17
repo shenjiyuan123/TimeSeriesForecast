@@ -1,4 +1,4 @@
-# TimeSeriesForecast(machinelearning homework)
+# TimeSeriesForecast(Machine Learning homework)
 
 本文基于alpha细菌含量数据集（见data.csv），对数据的大量缺失提出了可行的填补方案。
 
